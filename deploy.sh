@@ -1,5 +1,4 @@
 updating in master branch
-this line is use for testing
 updating some random contents
 
 this is a deployment based architecture.
